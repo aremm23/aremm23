@@ -21,7 +21,7 @@ I am an enthusiastic and driven second-year student at the Belarusian State Univ
 - **Web Development**: REST, HTTP
 - **Testing**: JUnit
 - **Software Development Principles**: SOLID, Design Patterns, OOP
-- **Build Tools**: Maven
+- **Build Tools**: Maven, Docker
 - **IDEs**: IntelliJ IDEA
 
 ### 🌟 Soft Skills
