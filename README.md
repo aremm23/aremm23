@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am an enthusiastic and driven second-year student at the Belarusian State University of Informatics and Radioelectronics (BSUIR), with a strong focus on Java programming. 
+I am an enthusiastic and driven third-year student at the Belarusian State University of Informatics and Radioelectronics (BSUIR), with a strong focus on Java programming. 
 
 ---
 
