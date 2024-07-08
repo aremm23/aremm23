@@ -7,14 +7,16 @@
 
 ## About Me
 
-I am an enthusiastic and driven third-year student at the Belarusian State University of Informatics and Radioelectronics (BSUIR), with a strong focus on Java programming. 
+I am an enthusiastic and driven third-year student at the Belarusian State University of Informatics and Radioelectronics (BSUIR), with a strong focus on Java programming.
+
+My main project is [Druzhba Hub Backend](https://github.com/aremm23/druzhba-hub-backend-java.git), an application for finding friends or companions for joint activities, built using Java with Spring Framework.
 
 ---
 
 ## Skills
 
 ### 💻 Hard Skills
-- **Programming Languages**: Java, C++(basics), React JS(basics)
+- **Programming Languages**: Java, C++ (basics), React JS (basics)
 - **Frameworks and Technologies**: Spring Core, Spring Boot, Spring MVC, Spring Security, Spring Data, Hibernate ORM
 - **Databases**: PostgreSQL, JDBC, MongoDB, Google Cloud Storage
 - **Version Control**: Git
