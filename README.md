@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Artsem Maiseyenka!
 
 ### 📍 Minsk, Belarus
-### 🎓 Second-year Computer Science Student at BSUIR
+### 🎓 Third-year Computer Science Student at BSUIR
 
 ---
 
@@ -14,9 +14,9 @@ I am an enthusiastic and driven third-year student at the Belarusian State Unive
 ## Skills
 
 ### 💻 Hard Skills
-- **Programming Languages**: Java, C++(basics)
+- **Programming Languages**: Java, C++(basics), React JS(basics)
 - **Frameworks and Technologies**: Spring Core, Spring Boot, Spring MVC, Spring Security, Spring Data, Hibernate ORM
-- **Databases**: PostgreSQL, JDBC
+- **Databases**: PostgreSQL, JDBC, MongoDB, Google Cloud Storage
 - **Version Control**: Git
 - **Web Development**: REST, HTTP
 - **Testing**: JUnit
