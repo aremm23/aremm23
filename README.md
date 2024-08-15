@@ -17,12 +17,12 @@ My main project is [Druzhba Hub Backend](https://github.com/aremm23/druzhba-hub-
 
 ### 💻 Hard Skills
 - **Programming Languages**: Java, C++ (basics), React JS (basics)
-- **Frameworks and Technologies**: Spring Core, Spring Boot, Spring MVC, Spring Security, Spring Data, Hibernate ORM
+- **Frameworks and Technologies**: Spring Core, Spring Boot, Spring MVC, Spring Security, Spring Data, Spring Cloud, Hibernate ORM
 - **Databases**: PostgreSQL, JDBC, MongoDB, Google Cloud Storage
 - **Version Control**: Git
 - **Web Development**: REST, HTTP, Deploy
 - **Testing**: JUnit
-- **Software Development Principles**: SOLID, Design Patterns, OOP
+- **Software Development Principles**: SOLID, Design Patterns, OOP, Microservices
 - **Build Tools**: Maven, Docker
 - **IDEs**: IntelliJ IDEA
 
