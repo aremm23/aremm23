@@ -20,7 +20,7 @@ My main project is [Druzhba Hub Backend](https://github.com/aremm23/druzhba-hub-
 - **Frameworks and Technologies**: Spring Core, Spring Boot, Spring MVC, Spring Security, Spring Data, Hibernate ORM
 - **Databases**: PostgreSQL, JDBC, MongoDB, Google Cloud Storage
 - **Version Control**: Git
-- **Web Development**: REST, HTTP
+- **Web Development**: REST, HTTP, Deploy
 - **Testing**: JUnit
 - **Software Development Principles**: SOLID, Design Patterns, OOP
 - **Build Tools**: Maven, Docker
